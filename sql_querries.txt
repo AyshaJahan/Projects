@@ -1,0 +1,9 @@
+CREATE TABLE book(
+    book_id varchar(20) PRIMARY key,
+    Title varchar(50),
+    Author_name varchar(30),
+    Total_quantity int,
+    Available_quantity int 
+    
+    );
+    
